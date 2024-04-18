@@ -1,5 +1,5 @@
 import 'package:flame/game.dart' show GameWidget;
-import 'package:flutter/material.dart' show runApp;
+import 'package:flutter/material.dart';
 
 import 'ember_quest.dart';
 import 'overlays/game_over.dart';
